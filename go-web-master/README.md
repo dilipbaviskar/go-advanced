@@ -11,4 +11,4 @@ Sample REST API app with Go and MongoDB
 4. Minor code refactoring in the app.
 
 # gokit
-Check out [github.com/dilipbaviskar/gokit](https://github.com/dilipbaviskar/gokit) for further examples on Go. 
+Check out [https://github.com/dilipbaviskar/go-advanced](https://github.com/dilipbaviskar/gokit) for further examples on Go. 
